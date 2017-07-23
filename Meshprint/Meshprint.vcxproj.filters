@@ -59,37 +59,13 @@
     <ClCompile Include="ArcBall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="clipper.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Cubes.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="globalFunctions.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Hatch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="renderingwidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SliceCut.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="space2dKDTree.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Support.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="HE_mesh\Mesh3D.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="triangle\triangle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Grid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -114,16 +90,7 @@
     <ClInclude Include="ArcBall.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="clipper.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Cubes.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="globalFunctions.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Hatch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="matrix.h">
@@ -132,25 +99,10 @@
     <ClInclude Include="openGLProjector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SliceCut.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="space2dKDTree.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Support.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="HE_mesh\Mesh3D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="HE_mesh\Vec.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="triangle\triangle.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Grid.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
